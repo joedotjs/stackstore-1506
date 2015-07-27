@@ -14,7 +14,8 @@ app.factory('RandomGreetings', function () {
         'こんにちは、ユーザー様。',
         'Welcome. To. WEBSITE.',
         ':D',
-        'Yes, I think we\'ve met before.'
+        'Yes, I think we\'ve met before.',
+        'Hello, 1506!'
     ];
 
     return {
