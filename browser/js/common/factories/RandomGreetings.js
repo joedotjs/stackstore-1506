@@ -8,6 +8,7 @@ app.factory('RandomGreetings', function () {
         'Hello, world!',
         'At long last, I woof!',
         'Hello, simple human.',
+        'What a lovely day!',
         'What a woof day!',
         'I\'m like any other project, except that I am yours. :)',
         'This empty string is for Lindsay Levine.',
